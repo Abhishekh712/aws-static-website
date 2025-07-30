@@ -12,7 +12,7 @@ This is my first cloud project, where I hosted a static website using **Amazon S
 - Accessed my live website via the S3 bucket's endpoint
 
 ##  Live Demo
-[Click here to view the website](http://abhishekh-web-bucket.s3-website.ap-south-1.amazonaws.com/)
+[Click here to view the website](http://abhishekh-new-bucket.s3-website.ap-south-1.amazonaws.com/)
 ## 🛠 Tech Used
 
 - **Amazon S3** (Simple Storage Service)
